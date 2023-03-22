@@ -1,10 +1,8 @@
 class Main {
   public static void main(String[] args) {
-    // System.out.println("Hello world!");
 
-    PatoSelvagem p1 = new PatoSelvagem();
-    PatoBorracha p2 = new PatoBorracha();
-    Pato p2 = new PatoBorracha();
+    PatoDomestico p1 = new PatoDomestico();
+    PatoDonald p2 = new PatoDonald();
 
     p1.aparencia();
     p1.voar();
