@@ -22,6 +22,6 @@ public class EntidadeCorrida {
 
     @Override
     public String toString() {
-        return "entidade: "+ id +"tipo "+ comportamentoAutonomia;
+        return "entidade: "+ id +" tipo "+ comportamentoAutonomia;
     }
 }
