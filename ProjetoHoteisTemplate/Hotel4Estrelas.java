@@ -1,6 +1,6 @@
 public class Hotel4Estrelas extends ReservaHotel {
-  @override
+  @Override
   public void calcularPrecoItensMedianos() {
-    System.out.println("O hotel é mais simples, então o preço e os benefícios serão ...")
+    System.out.println("O hotel é mais simples, então o preço e os benefícios serão ...");
   }
 }
